@@ -6,22 +6,23 @@ using BenchmarkDotNet.Attributes;
 
 namespace ShellSort
 {
-    public class ShellSort
+    public static class ParallelSort
     {
         [Params(3, 4)] public static int N = 3;
 
         private static int blocksCount = (int) Math.Pow(2, N);
 
-        private int blocksStep = blocksCount / threadsCount;
+        private static int threadsCount = blocksCount / 2;
+        private static int blocksStep = blocksCount / threadsCount;
 
-        private int[][] blocks = new int[blocksCount][];
-        public static int threadsCount = blocksCount / 2;
+        private static int[][] blocks = new int[blocksCount][];
+     
         private static Thread[] threads = new Thread[threadsCount];
         private static int[] unsortedArray;
 
 
         // метод локальной сортировки, каждый поток сортирует по 2 блока для N = 3
-        private void LocalSort(object threadIndex)
+        private static void LocalSort(object threadIndex)
         {
             int index = (int) threadIndex;
             //  blocks[index].Sort();
@@ -30,35 +31,13 @@ namespace ShellSort
             Array.Sort(blocks[index + 1]);
         }
 
-        private void MergeSplit(object data)
+        private static void MergeSplit(object data)
         {
             int[] tmp = (int[]) data;
             int firstBlockInd = tmp[0];
             int secondBlockInd = tmp[1];
             int[] mergedArray = new int[blocks[firstBlockInd].Length + blocks[secondBlockInd].Length];
-            /*
-            for (int i = 0; i < blocks[firstBlockInd].Length; i++)
-            {
-                mergedArray[i] = blocks[firstBlockInd][i];
-            }
 
-            for (int i = 0; i < blocks[secondBlockInd].Length; i++)
-            {
-                mergedArray[blocks[firstBlockInd].Length + i] = blocks[secondBlockInd][i];
-            }
-
-            Array.Sort(mergedArray);
-            for (int i = 0; i < blocks[firstBlockInd].Length; i++)
-            {
-                blocks[firstBlockInd][i] = mergedArray[i];
-            }
-
-            for (int i = 0; i < blocks[secondBlockInd].Length; i++)
-            {
-                blocks[secondBlockInd][i] = mergedArray[blocks[firstBlockInd].Length + i];
-            }
-            */
-            
             Array.Copy(blocks[firstBlockInd], mergedArray, blocks[firstBlockInd].Length);
             Array.Copy(blocks[secondBlockInd], 0, mergedArray, blocks[firstBlockInd].Length,
                 blocks[secondBlockInd].Length);
@@ -67,9 +46,8 @@ namespace ShellSort
             Array.Copy(mergedArray, blocks[firstBlockInd].Length, blocks[secondBlockInd], 0,
                 blocks[secondBlockInd].Length);
         }
-
-
-        public void ParallelSort(ref int[] array)
+        
+        public static void ShellSort(int[] array)
         {
             unsortedArray = array;
 
@@ -167,9 +145,11 @@ namespace ShellSort
                     i1++;
                 }
             }
+            
+          //  Console.ReadLine();
         }
 
-        private int IsChanged(int index)
+        private static int IsChanged(int index)
         {
             int tmp = 0;
             foreach (var i in blocks[index])
@@ -179,7 +159,7 @@ namespace ShellSort
             return tmp;
         }
 
-        private void FillBlocks(object threadIndex)
+        private static void FillBlocks(object threadIndex)
         {
             int index = (int) threadIndex;
             int startIndex = index * blocksStep;

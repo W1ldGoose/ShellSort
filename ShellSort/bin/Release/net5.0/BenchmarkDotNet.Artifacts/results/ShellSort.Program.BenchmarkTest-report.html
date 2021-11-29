@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
 <meta charset='utf-8' />
-<title>ShellSort.Program.BenchmarkTest-20211129-075508</title>
+<title>ShellSort.Program.BenchmarkTest-20211130-005542</title>
 
 <style type="text/css">
 	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
@@ -17,22 +17,20 @@ BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19041.1348 (2004/May2020Update/20H1)
 Intel Core i5-7400 CPU 3.00GHz (Kaby Lake), 1 CPU, 4 logical and 4 physical cores
 .NET SDK=5.0.402
   [Host]     : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
-  Job-VEAHKA : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
+  Job-DWQRSD : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
 </code></pre>
 <pre><code>RunStrategy=Throughput  
 </code></pre>
 
 <table>
-<thead><tr><th>Method</th><th>elemsCount</th><th>  Mean</th><th>Error</th><th>StdDev</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
+<thead><tr><th>Method</th><th>  N</th><th> Mean</th><th>Error</th><th>StdDev</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
 </tr>
-</thead><tbody><tr><td>SerialTest</td><td>10000</td><td>7.350 &mu;s</td><td>0.0177 &mu;s</td><td>0.0165 &mu;s</td><td>1</td><td>0.0839</td><td>-</td><td>-</td><td>280 B</td>
-</tr><tr><td>SerialTest</td><td>10000000</td><td>7.364 &mu;s</td><td>0.0123 &mu;s</td><td>0.0109 &mu;s</td><td>1</td><td>0.0839</td><td>-</td><td>-</td><td>280 B</td>
-</tr><tr><td>SerialTest</td><td>100000000</td><td>7.449 &mu;s</td><td>0.0273 &mu;s</td><td>0.0242 &mu;s</td><td>1</td><td>0.0839</td><td>-</td><td>-</td><td>280 B</td>
-</tr><tr><td>SerialTest</td><td>1000000</td><td>7.473 &mu;s</td><td>0.0592 &mu;s</td><td>0.0494 &mu;s</td><td>1</td><td>0.0839</td><td>-</td><td>-</td><td>280 B</td>
-</tr><tr><td>ParallelTest</td><td>10000</td><td>1,870.686 &mu;s</td><td>16.1190 &mu;s</td><td>14.2891 &mu;s</td><td>2</td><td>68.3594</td><td>7.8125</td><td>7.8125</td><td>12,432 B</td>
-</tr><tr><td>ParallelTest</td><td>100000000</td><td>1,878.184 &mu;s</td><td>18.5696 &mu;s</td><td>17.3701 &mu;s</td><td>2</td><td>68.3594</td><td>7.8125</td><td>7.8125</td><td>12,432 B</td>
-</tr><tr><td>ParallelTest</td><td>10000000</td><td>1,886.122 &mu;s</td><td>14.5638 &mu;s</td><td>12.9105 &mu;s</td><td>2</td><td>68.3594</td><td>7.8125</td><td>7.8125</td><td>12,432 B</td>
-</tr><tr><td>ParallelTest</td><td>1000000</td><td>1,891.223 &mu;s</td><td>19.2790 &mu;s</td><td>17.0903 &mu;s</td><td>2</td><td>68.3594</td><td>7.8125</td><td>7.8125</td><td>12,432 B</td>
+</thead><tbody><tr><td>SerialTest</td><td>1000000</td><td>22.07 ms</td><td>0.263 ms</td><td>0.246 ms</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>ParallelTest</td><td>1000000</td><td>23.70 ms</td><td>0.462 ms</td><td>0.601 ms</td><td>2</td><td>1187.5000</td><td>1156.2500</td><td>1156.2500</td><td>20,016,118 B</td>
+</tr><tr><td>SerialTest</td><td>10000000</td><td>266.79 ms</td><td>1.175 ms</td><td>1.099 ms</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>ParallelTest</td><td>10000000</td><td>282.55 ms</td><td>4.392 ms</td><td>3.893 ms</td><td>4</td><td>1000.0000</td><td>1000.0000</td><td>1000.0000</td><td>200,014,096 B</td>
+</tr><tr><td>ParallelTest</td><td>100000000</td><td>2,481.45 ms</td><td>16.253 ms</td><td>15.203 ms</td><td>5</td><td>-</td><td>-</td><td>-</td><td>2,000,010,800 B</td>
+</tr><tr><td>SerialTest</td><td>100000000</td><td>3,038.05 ms</td><td>14.279 ms</td><td>13.357 ms</td><td>6</td><td>-</td><td>-</td><td>-</td><td>1,336 B</td>
 </tr></tbody></table>
 </body>
 </html>

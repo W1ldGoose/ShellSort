@@ -10,7 +10,7 @@ namespace ShellSort
             b = t;
         }
 
-        public static void ShellSort(ref int[] array)
+        public static void ShellSort(int[] array)
         {
             //расстояние между элементами, которые сравниваются
             var step = array.Length / 2;
