@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
 <meta charset='utf-8' />
-<title>ShellSort.Program.BenchmarkTest-20211130-005542</title>
+<title>ShellSort.Program.BenchmarkTest-20211207-022021</title>
 
 <style type="text/css">
 	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
@@ -17,20 +17,32 @@ BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19041.1348 (2004/May2020Update/20H1)
 Intel Core i5-7400 CPU 3.00GHz (Kaby Lake), 1 CPU, 4 logical and 4 physical cores
 .NET SDK=5.0.402
   [Host]     : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
-  Job-DWQRSD : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
+  Job-ATNWLT : .NET 5.0.11 (5.0.1121.47308), X64 RyuJIT
 </code></pre>
 <pre><code>RunStrategy=Throughput  
 </code></pre>
 
 <table>
-<thead><tr><th>Method</th><th>  N</th><th> Mean</th><th>Error</th><th>StdDev</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
+<thead><tr><th>Method</th><th>  N</th><th>type</th><th> Mean</th><th>Error</th><th>StdDev</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
 </tr>
-</thead><tbody><tr><td>SerialTest</td><td>1000000</td><td>22.07 ms</td><td>0.263 ms</td><td>0.246 ms</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td>
-</tr><tr><td>ParallelTest</td><td>1000000</td><td>23.70 ms</td><td>0.462 ms</td><td>0.601 ms</td><td>2</td><td>1187.5000</td><td>1156.2500</td><td>1156.2500</td><td>20,016,118 B</td>
-</tr><tr><td>SerialTest</td><td>10000000</td><td>266.79 ms</td><td>1.175 ms</td><td>1.099 ms</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td>
-</tr><tr><td>ParallelTest</td><td>10000000</td><td>282.55 ms</td><td>4.392 ms</td><td>3.893 ms</td><td>4</td><td>1000.0000</td><td>1000.0000</td><td>1000.0000</td><td>200,014,096 B</td>
-</tr><tr><td>ParallelTest</td><td>100000000</td><td>2,481.45 ms</td><td>16.253 ms</td><td>15.203 ms</td><td>5</td><td>-</td><td>-</td><td>-</td><td>2,000,010,800 B</td>
-</tr><tr><td>SerialTest</td><td>100000000</td><td>3,038.05 ms</td><td>14.279 ms</td><td>13.357 ms</td><td>6</td><td>-</td><td>-</td><td>-</td><td>1,336 B</td>
+</thead><tbody><tr><td>ParallelTest</td><td>1000000</td><td>Desc</td><td>18.29 ms</td><td>0.358 ms</td><td>0.608 ms</td><td>1</td><td>1375.0000</td><td>1343.7500</td><td>1343.7500</td><td>19,017,326 B</td>
+</tr><tr><td>ParallelTest</td><td>1000000</td><td>Asc</td><td>18.40 ms</td><td>0.358 ms</td><td>0.452 ms</td><td>1</td><td>1312.5000</td><td>1281.2500</td><td>1281.2500</td><td>19,018,854 B</td>
+</tr><tr><td>ParallelTest</td><td>1000000</td><td>Rand</td><td>20.56 ms</td><td>0.367 ms</td><td>0.603 ms</td><td>2</td><td>1187.5000</td><td>1156.2500</td><td>1156.2500</td><td>19,015,524 B</td>
+</tr><tr><td>SerialTest</td><td>1000000</td><td>Desc</td><td>21.59 ms</td><td>0.204 ms</td><td>0.181 ms</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>SerialTest</td><td>1000000</td><td>Rand</td><td>21.75 ms</td><td>0.112 ms</td><td>0.105 ms</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>SerialTest</td><td>1000000</td><td>Asc</td><td>21.78 ms</td><td>0.211 ms</td><td>0.187 ms</td><td>3</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>ParallelTest</td><td>10000000</td><td>Desc</td><td>182.72 ms</td><td>3.086 ms</td><td>2.577 ms</td><td>4</td><td>666.6667</td><td>666.6667</td><td>666.6667</td><td>190,018,152 B</td>
+</tr><tr><td>ParallelTest</td><td>10000000</td><td>Asc</td><td>183.06 ms</td><td>2.259 ms</td><td>2.113 ms</td><td>4</td><td>666.6667</td><td>666.6667</td><td>666.6667</td><td>190,012,525 B</td>
+</tr><tr><td>SerialTest</td><td>10000000</td><td>Asc</td><td>265.27 ms</td><td>0.545 ms</td><td>0.455 ms</td><td>5</td><td>-</td><td>-</td><td>-</td><td>668 B</td>
+</tr><tr><td>ParallelTest</td><td>10000000</td><td>Rand</td><td>266.23 ms</td><td>5.132 ms</td><td>7.681 ms</td><td>5</td><td>1000.0000</td><td>1000.0000</td><td>1000.0000</td><td>190,017,756 B</td>
+</tr><tr><td>SerialTest</td><td>10000000</td><td>Rand</td><td>266.24 ms</td><td>1.456 ms</td><td>1.291 ms</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>SerialTest</td><td>10000000</td><td>Desc</td><td>268.30 ms</td><td>3.632 ms</td><td>3.397 ms</td><td>5</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>ParallelTest</td><td>100000000</td><td>Desc</td><td>2,217.21 ms</td><td>7.047 ms</td><td>6.592 ms</td><td>6</td><td>-</td><td>-</td><td>-</td><td>1,900,009,728 B</td>
+</tr><tr><td>ParallelTest</td><td>100000000</td><td>Asc</td><td>2,217.66 ms</td><td>17.183 ms</td><td>14.349 ms</td><td>6</td><td>-</td><td>-</td><td>-</td><td>1,900,011,072 B</td>
+</tr><tr><td>ParallelTest</td><td>100000000</td><td>Rand</td><td>2,755.57 ms</td><td>28.136 ms</td><td>26.318 ms</td><td>7</td><td>-</td><td>-</td><td>-</td><td>1,900,011,072 B</td>
+</tr><tr><td>SerialTest</td><td>100000000</td><td>Desc</td><td>2,995.36 ms</td><td>8.207 ms</td><td>7.677 ms</td><td>8</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>SerialTest</td><td>100000000</td><td>Asc</td><td>3,019.02 ms</td><td>9.212 ms</td><td>8.617 ms</td><td>8</td><td>-</td><td>-</td><td>-</td><td>1,240 B</td>
+</tr><tr><td>SerialTest</td><td>100000000</td><td>Rand</td><td>3,061.95 ms</td><td>53.694 ms</td><td>50.226 ms</td><td>8</td><td>-</td><td>-</td><td>-</td><td>1,240 B</td>
 </tr></tbody></table>
 </body>
 </html>

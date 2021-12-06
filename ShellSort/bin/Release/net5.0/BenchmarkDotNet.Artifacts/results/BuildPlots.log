@@ -1,0 +1,422 @@
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Rand-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Rand-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Rand-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Asc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Asc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Asc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Desc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Desc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=100000000&type=Desc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Desc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Desc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Desc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Rand-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Rand-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Rand-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Asc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Asc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=10000000&type=Asc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Asc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Asc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Asc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Rand-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Rand-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Rand-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Desc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Desc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-Job-ATNWLT N=1000000&type=Desc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=100000000&type=Rand-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=100000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=100000000&type=Asc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=100000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=100000000&type=Desc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=100000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=10000000&type=Desc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=10000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=10000000&type=Rand-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=10000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=10000000&type=Asc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=10000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=1000000&type=Asc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=1000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=1000000&type=Rand-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=1000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=1000000&type=Desc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-N=1000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-SerialTest-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-facetTimeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Rand-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Rand-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Rand-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Asc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Asc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Asc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Desc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Desc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=100000000&type=Desc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Rand-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Rand-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Rand-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Asc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Asc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Asc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Desc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Desc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=10000000&type=Desc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Rand-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Rand-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Rand-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Asc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Asc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Asc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Desc-cummean.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Desc-timelineSmooth.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-Job-ATNWLT N=1000000&type=Desc-timeline.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=100000000&type=Rand-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=100000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=100000000&type=Asc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=100000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=100000000&type=Desc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=100000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=10000000&type=Rand-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=10000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=10000000&type=Asc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=10000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=10000000&type=Desc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=10000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=1000000&type=Rand-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=1000000&type=Rand-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=1000000&type=Asc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=1000000&type=Asc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=1000000&type=Desc-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-N=1000000&type=Desc-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-facetDensity.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-ParallelTest-density.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-barplot.png ***
+------------------------------
+*** Plot: C:\Users\WildGoose\RiderProjects\ShellSort\ShellSort\bin\Release\net5.0\BenchmarkDotNet.Artifacts\results\ShellSort.Program.BenchmarkTest-boxplot.png ***
+Call `lifecycle::last_lifecycle_warnings()` to see where this warning was generated. 
+This warning is displayed once every 8 hours.
+See vignette('programming') for more help
+Please use `group_by()` instead.
+`group_by_()` was deprecated in dplyr 0.7.0.
+╧ЁхфєяЁхцфхэшх:
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`summarise()` has grouped output by 'Target_Method'. You can override using the `.groups` argument.
+R.devices v2.17.0 (2021-01-19 18:30:06 UTC) successfully loaded. See ?R.devices for help.
+    combine
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:dplyr':
+    combine
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:gdata':
+╧Ёшёюхфшэ ■ яръхЄ: 'gridExtra'
+    startsWith
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:base':
+    object.size
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:utils':
+    nobs
+╤ыхфє■∙шщ юс·хъЄ ёъЁ√Є юЄ 'package:stats':
+    combine, first, last
+╤ыхфє■∙шх юс·хъЄ√ ёъЁ√Є√ юЄ 'package:dplyr':
+╧Ёшёюхфшэ ■ яръхЄ: 'gdata'
+gdata: libaries needed to support Excel XLS and XLSX formats.
+gdata: to automatically download and install the perl
+gdata: Run the function 'installXLSXsupport()'
+gdata: to support 'XLSX' (Excel 2007+) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: to support 'XLX' (Excel 97-2004) files.
+gdata: Unable to load perl libaries needed by read.xls()
+gdata: perl is installed and available on the executable search path.)
+gdata: (To avoid display of this message in the future, please ensure
+gdata: 
+gdata: valid perl intrpreter.
+gdata: unless the 'perl=' argument is used to specify the location of a
+gdata: read.xls() will be unable to read Excel XLS and XLSX files
+gdata: 
+gdata: Unable to locate valid perl interpreter
+    intersect, setdiff, setequal, union
+╤ыхфє■∙шх юс·хъЄ√ ёъЁ√Є√ юЄ 'package:base':
+    filter, lag
+╤ыхфє■∙шх юс·хъЄ√ ёъЁ√Є√ юЄ 'package:stats':
+╧Ёшёюхфшэ ■ яръхЄ: 'dplyr'

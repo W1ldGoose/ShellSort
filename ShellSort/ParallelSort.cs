@@ -8,7 +8,7 @@ namespace ShellSort
 {
     public static class ParallelSort
     {
-        [Params(3, 4)] public static int N = 3;
+        public static int N = 3;
 
         private static int blocksCount = (int) Math.Pow(2, N);
 
@@ -24,9 +24,7 @@ namespace ShellSort
         // метод локальной сортировки, каждый поток сортирует по 2 блока для N = 3
         private static void LocalSort(object threadIndex)
         {
-            int index = (int) threadIndex;
-            //  blocks[index].Sort();
-            //blocks[index + 1].Sort();
+            int index = (int)threadIndex*2;
             Array.Sort(blocks[index]);
             Array.Sort(blocks[index + 1]);
         }
@@ -89,12 +87,10 @@ namespace ShellSort
                     {
                         x++;
                     }
-
                     threads[j] = new Thread(MergeSplit);
                     threads[j].Start(new int[] {x, x | (1 << (N - i - 1))});
                     x++;
                 }
-
                 foreach (var thread in threads)
                 {
                     thread.Join();
@@ -103,7 +99,7 @@ namespace ShellSort
 
             // Этап 3: чет-нечетная сортировка до прекращения изменений
             bool isChanged = true;
-            int xor = 0;
+            int xor = 1;
             int[] checkArr = new int[blocksCount / 2];
             for (int i = 0; i < blocksCount / 2; i++)
             {
@@ -134,8 +130,6 @@ namespace ShellSort
                     }
                 }
             }
-
-            // array = blocks.SelectMany(x => x).ToArray();
             int i1 = 0;
             for (int i = 0; i < blocksCount; i++)
             {
@@ -145,8 +139,6 @@ namespace ShellSort
                     i1++;
                 }
             }
-            
-          //  Console.ReadLine();
         }
 
         private static int IsChanged(int index)
